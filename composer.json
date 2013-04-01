@@ -1,5 +1,5 @@
 {
-  "name": "fwahlqvist/reveal.js",
+  "name": "fwahlqvist/revealjs",
   "version": "2.4.0",
   "description": "The HTML Presentation Framework",
   "homepage": "http://lab.hakim.se/reveal-js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fwahlqvist/reveal.js.git"
+    "url": "git://github.com/fwahlqvist/revealjs.git"
   },
   "dependencies": {
     "underscore": "~1.3.3",
